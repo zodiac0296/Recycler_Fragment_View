@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Recycler_View</string>
+
+    <string name="Action">Экшен</string>
+    <string name="Anime">аниме</string>
+    <string name="Drama">драма</string>
+    <string name="Melodrama">мелодрама</string>
+    <string name="Comedy">комедия</string>
 </resources>
