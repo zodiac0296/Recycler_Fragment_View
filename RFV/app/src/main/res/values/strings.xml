@@ -6,4 +6,7 @@
     <string name="Drama">драма</string>
     <string name="Melodrama">мелодрама</string>
     <string name="Comedy">комедия</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

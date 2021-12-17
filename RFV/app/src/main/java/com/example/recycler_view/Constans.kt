@@ -10,7 +10,7 @@ class Constans {
         Category(Categories.Anime.ordinal,R.string.Anime),
         Category(Categories.Comedy.ordinal,R.string.Comedy),
         Category(Categories.Drama.ordinal, R.string.Drama),
-        Category(Categories.Melodrama.ordinal, R.string.Melodrama))
+        Category(Categories.Melodrama.ordinal, R.string.Melodrama),)
 
 
         val  video = arrayListOf<Video>(
@@ -33,8 +33,6 @@ class Constans {
             Video(Categories.Melodrama.ordinal, "описание", "название","url"),
             Video(Categories.Melodrama.ordinal, "описание", "название","url"),
             Video(Categories.Melodrama.ordinal, "описание", "название","url"),
-
-
         )
     }
 }
@@ -45,6 +43,7 @@ enum class Categories(value: Int){
     Drama(3),
     Melodrama(4),
     Action(5),
+
 
 
 
